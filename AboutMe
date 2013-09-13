@@ -1,0 +1,17 @@
+
+// Name: Scott DeVoe
+// Email: scott.a.devoe@vanderbilt.edu
+// Class: CS101, Vanderbilt University
+
+public class AboutMe {
+
+	
+	public static void main(String[] args) {
+	
+		System.out.println("Name:\tScott DeVoe");
+		System.out.println("Email:\tscott.a.devoe@vanderbilt.edu");
+
+		
+	}
+
+}
